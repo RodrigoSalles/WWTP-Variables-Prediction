@@ -5,7 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -32,16 +31,9 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Python - version 3.8.8
+- Keras - version 2.6.0
+- TensorFlow - version 2.6.0
 
 
 ## Screenshots
