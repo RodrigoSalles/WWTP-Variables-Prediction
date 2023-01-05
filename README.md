@@ -17,8 +17,8 @@
 
 
 ## General Information
-- Programs to predict the following key variables for wastewater treatment:
-+ Total suspended solids (TSS)
+* Programs to predict the following key variables for wastewater treatment:
+  * Total suspended solids (TSS)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
