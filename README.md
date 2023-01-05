@@ -37,7 +37,7 @@
 
 
 ## Screenshots
-![Example screenshot](.Figures/f1.png)
+![Example screenshot](Figures/f1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
