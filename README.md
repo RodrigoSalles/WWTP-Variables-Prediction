@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies](#technologies-used)
+* [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -17,10 +17,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Programs to predict the following key variables for wastewater treatment:
+* Total suspended solids (TSS)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
