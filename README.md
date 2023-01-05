@@ -19,6 +19,15 @@
 ## General Information
 * Programs to predict the following key variables for wastewater treatment:
   * Total suspended solids (TSS)
+  * Ammonia and Ammonium
+  * Nitrate and Nitrite
+  * Biological Oxygen Demand (BOD5)
+* Machine learning models used for predictions:
+  * Artificial Neural Networks (ANN)
+  * Long Short-Term Memory (LSTM)
+  * Adaptive Neuro-Fuzzy Inference System (ANFIS)
+  * Transformers
+  * Gaussian Mixture Model (GMM)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
