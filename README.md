@@ -37,7 +37,7 @@
 
 
 ## Screenshots
-![Example screenshot](Figures/f1.png)
+![Forecast results](Figures/f2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
