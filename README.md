@@ -16,6 +16,7 @@
 
 
 ## General Information
+* This work originated a paper that was presented at the conference IEEE WCCI2022 - Word Congress on Computational Intelligence, 18-23 July 2022 in Padua, Italy.
 * Programs to predict the following key variables for wastewater treatment:
   * Total suspended solids (TSS)
   * Ammonia and Ammonium
