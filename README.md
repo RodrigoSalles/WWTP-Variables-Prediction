@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Forecast results](#Forecast-results)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -36,7 +36,7 @@
 - TensorFlow - version 2.6.0
 
 
-## Screenshots
+## Forecast results
 ![Forecast results](Figures/f2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
