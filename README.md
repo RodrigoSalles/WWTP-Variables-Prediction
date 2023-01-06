@@ -40,7 +40,7 @@
 ## Forecast results
 * Predictions made for the TSS variable: 
 
-<img src="Figures/f2.png"  width="400" height="600">
+<img src="Figures/f2.png"  width="600" height="400">
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
