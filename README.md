@@ -66,7 +66,7 @@ The project was completed, and the results were presented in the aforementioned 
 ## Contact
 Rodrigo Salles. Email: engenharia.salles@gmail.com 
 
-feel free to contact me!
+...feel free to contact me!
 
 
 <!-- Optional -->
