@@ -44,9 +44,8 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+* To run the notebooks of each case study, just have Python and Jupyter Notebook installed.
+* When running the notebook new models will be trained. To obtain the same results as in the paper, you must use the trained models, which are in the "modelos" folder.
 
 
 ## Usage
