@@ -38,7 +38,7 @@
 
 
 ## Forecast results
-* Predictions made for the TSS variable. 
+* Predictions made for the TSS variable: 
 ![Forecast results](Figures/f2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
