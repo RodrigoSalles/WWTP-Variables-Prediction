@@ -38,7 +38,7 @@
 
 
 ## Forecast results
-### Result of the prediction of one of the case study variables
+* Predictions made for the TSS variable. 
 ![Forecast results](Figures/f2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
