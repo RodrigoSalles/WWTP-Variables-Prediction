@@ -58,7 +58,7 @@ The project was completed, and the results were presented in the aforementioned 
 
 ## Acknowledgements
 * This research was supported by the ERDF and national funds through the project "PLATAFORMA DE ESTIMAÇÃO, CONTROLO E OTIMIZAÇÃO DE ESTAÇÕES DE TRATAMENTO DE ÁGUAS RESIDUAIS" - SYNAPPS (CENTRO-01-0247-FEDER-046978), and by Fundação para a Ciência e a Tecnologia (FCT) under the project UIDB/00048/2020.
-* Isntitute of Systems and Robotic - ISR 
+* Institute of Systems and Robotic - ISR 
 * DEEC - University of Coimbra - Portugal.
 
 
