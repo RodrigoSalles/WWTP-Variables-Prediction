@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Forecast results](#Forecast-results)
 * [Setup](#setup)
