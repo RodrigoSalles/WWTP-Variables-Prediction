@@ -34,6 +34,7 @@
 - Python - version 3.8.8
 - Keras - version 2.6.0
 - TensorFlow - version 2.6.0
+- Benchmark Simulation Model no. 2 (BSM2)
 
 
 ## Forecast results
@@ -45,6 +46,7 @@
 ## Setup
 * To run the notebooks of each case study, just have Python and Jupyter Notebook installed.
 * When running the notebook new models will be trained. To obtain the same results as in the paper, you must use the trained models, which are in the "modelos" folder.
+* To obtain the used datasets, install and run the BSM2 simulator. More details about the installation and operation of BSM2 can be found here https://github.com/wwtmodels and here https://wwtmodels.pubpub.org.
 
 
 ## Project Status
