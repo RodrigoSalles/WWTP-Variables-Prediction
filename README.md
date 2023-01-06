@@ -7,7 +7,6 @@
 * [Technologies Used](#technologies-used)
 * [Forecast results](#Forecast-results)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -48,19 +47,13 @@
 * When running the notebook new models will be trained. To obtain the same results as in the paper, you must use the trained models, which are in the "modelos" folder.
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+The project was completed, and the results were presented in the aforementioned paper.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+* The prediction results could be improved with the use of other hyperparameters and other models.
+* The use of models in real situations, in WWTPs, can be made possible with the use of better computational resources that would allow training and obtaining results in less time.
 
 Room for improvement:
 - Improvement to be done 1
